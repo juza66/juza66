@@ -1,7 +1,5 @@
 ### Hi, I'm Ali Mousavi 👋
 
-** The languages and frameworks I worked on
-
 
 
 <!--
