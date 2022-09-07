@@ -1,9 +1,11 @@
 ### Hi, I'm Ali Mousavi 👋
 
-**Tools and frameworks that I know**
+**My programming skills**
 - Php
 - Laravel
 - Livewire
 - ReactJS
 - NextJS
 - Vuejs
+
+
